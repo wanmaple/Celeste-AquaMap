@@ -1,0 +1,6 @@
+- Name: AquaMap
+  Version: 1.0.0
+  Dependencies:
+    - Name: EverestCore
+    - Name: Aqua
+      Version: 1.0.0

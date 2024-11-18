@@ -1,6 +1,7 @@
 - Name: Aqua_AnotherJourney
   Version: 1.0.0
   Dependencies:
-    - Name: EverestCore
     - Name: Aqua
       Version: 1.0.0
+    - Name: Everest
+    - Name: EverestCore

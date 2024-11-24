@@ -222,9 +222,10 @@
 
 
 
-<!-- Aqua tiles -->
+<!-- Aqua fgtiles -->
 
   <Tileset id="草" copy="z" path="AquaAnotherJourney/grass_path" sound="33"/>
+  <Tileset id="钢" copy="z" path="AquaAnotherJourney/girder_nosnow" sound="7"/>
 
 
 

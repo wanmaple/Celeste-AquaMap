@@ -1,9 +1,9 @@
-Aqua_0_JourneyStart=Another Journey
-Aqua_0_JourneyStart_1_AnotherOne=Another One
-Aqua_0_JourneyStart_1_AnotherOne_mapside=FLY
-Aqua_0_JourneyStart_2_City=Another City
-Aqua_0_JourneyStart_2_City_5=Higher
-poem_Aqua_0_JourneyStart_2_City_A=First Step
+Aqua_0_JourneyStart=Aqua Test Map
+Aqua_0_JourneyStart_0_Prologue=Prologue
+Aqua_0_JourneyStart_1_TheMastTower=The Mast Tower
+Aqua_0_JourneyStart_1_TheMastTower_5=Around City
+Aqua_0_JourneyStart_1_TheMastTower_10=Higher
+poem_Aqua_0_JourneyStart_1_TheMastTower_A=First Step
 
 THROW_HOOK=THROW HOOK
 SWING_JUMP=SWING AND JUMP

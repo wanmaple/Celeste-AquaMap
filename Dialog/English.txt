@@ -8,6 +8,14 @@ poem_Aqua_0_JourneyStart_1_TheMastTower_A=First Step
 THROW_HOOK=THROW HOOK
 SWING_JUMP=SWING AND JUMP
 CLIMB_ROPE=CLIMB HOOK ROPE
+HOOK_GEM=HOOK GEM
 DASH_GRAB_JUMP=WHILE HANGING
 INERTIA_SWING=WHILE HANGING ZIPMOVER
-SWING_JUMP_LIMIT=LIMITS OF SWING JUMP
+HOOK_BOOSTER=HOOK BOOSTER
+
+TEST_COMPLETE=
+    [THEO right normal]
+    You did a great job! Did you collect all the berries?
+    
+    [THEO right normal]
+    Hope you enjoy the mod!

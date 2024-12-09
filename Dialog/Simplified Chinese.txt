@@ -1,2 +1,21 @@
-yourname_mapname_testmap=测试地图
-yourname_mapname=测试
+Aqua_0_JourneyStart=Aqua测试地图
+Aqua_0_JourneyStart_0_Prologue=序章
+Aqua_0_JourneyStart_1_TheMastTower=通讯塔
+Aqua_0_JourneyStart_1_TheMastTower_5=城市
+Aqua_0_JourneyStart_1_TheMastTower_10=高处
+poem_Aqua_0_JourneyStart_1_TheMastTower_A=初出茅庐
+
+THROW_HOOK=投掷钩爪
+SWING_JUMP=摆荡跳
+CLIMB_ROPE=钩绳攀爬
+HOOK_GEM=钩取宝石
+DASH_GRAB_JUMP=钩爪悬挂时
+INERTIA_SWING=悬挂着红绿灯时
+HOOK_BOOSTER=钩取泡泡
+
+TEST_COMPLETE=
+    [THEO right normal]
+    做得太好啦！草莓有全部收集到吗？
+    
+    [THEO right normal]
+    希望你有享受这个MOD，如果你有意向帮助我们做得更好，请联系作者~

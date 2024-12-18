@@ -12,10 +12,11 @@ HOOK_GEM=HOOK GEM
 DASH_GRAB_JUMP=WHILE HANGING
 INERTIA_SWING=WHILE HANGING ZIPMOVER
 HOOK_BOOSTER=HOOK BOOSTER
+DOWN_THROW=THROW HOOK DOWN
 
 TEST_COMPLETE=
     [THEO right normal]
     You did a great job! Did you collect all the berries?
     
     [THEO right normal]
-    Hope you enjoy the mod!
+    If you have any advice about our MOD, please contact the publisher.

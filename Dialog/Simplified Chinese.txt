@@ -12,10 +12,11 @@ HOOK_GEM=钩取宝石
 DASH_GRAB_JUMP=钩爪悬挂时
 INERTIA_SWING=悬挂着红绿灯时
 HOOK_BOOSTER=钩取泡泡
+DOWN_THROW=下投钩
 
 TEST_COMPLETE=
     [THEO right normal]
     做得太好啦！草莓有全部收集到吗？
     
     [THEO right normal]
-    希望你有享受这个MOD，如果你有意向帮助我们做得更好，请联系作者~
+    希望你有享受这个MOD，如果有任何建议或者想帮助我们，请联系作者。

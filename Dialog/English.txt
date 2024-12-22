@@ -1,9 +1,13 @@
-Aqua_0_JourneyStart=Aqua Test Map
+Aqua_0_JourneyStart=Aqua Experimental Map
 Aqua_0_JourneyStart_0_Prologue=Prologue
 Aqua_0_JourneyStart_1_TheMastTower=The Mast Tower
 Aqua_0_JourneyStart_1_TheMastTower_5=Around City
 Aqua_0_JourneyStart_1_TheMastTower_10=Higher
+Aqua_0_JourneyStart_2_Seeking=Seeking
+Aqua_0_JourneyStart_2_Seeking_7=Inside
+Aqua_0_JourneyStart_2_Seeking_15=Get Closing
 poem_Aqua_0_JourneyStart_1_TheMastTower_A=First Step
+poem_Aqua_0_JourneyStart_2_Seeking_A=Getting Better
 
 THROW_HOOK=THROW HOOK
 SWING_JUMP=SWING AND JUMP

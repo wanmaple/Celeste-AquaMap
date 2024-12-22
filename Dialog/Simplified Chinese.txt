@@ -1,9 +1,13 @@
-Aqua_0_JourneyStart=Aqua测试地图
+Aqua_0_JourneyStart=Aqua实验地图
 Aqua_0_JourneyStart_0_Prologue=序章
 Aqua_0_JourneyStart_1_TheMastTower=通讯塔
 Aqua_0_JourneyStart_1_TheMastTower_5=城市
 Aqua_0_JourneyStart_1_TheMastTower_10=高处
+Aqua_0_JourneyStart_2_Seeking=寻找
+Aqua_0_JourneyStart_2_Seeking_7=内部
+Aqua_0_JourneyStart_2_Seeking_15=接近
 poem_Aqua_0_JourneyStart_1_TheMastTower_A=初出茅庐
+poem_Aqua_0_JourneyStart_2_Seeking_A=渐入佳境
 
 THROW_HOOK=投掷钩爪
 SWING_JUMP=摆荡跳

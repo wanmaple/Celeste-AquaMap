@@ -1,4 +1,4 @@
-HookMaterial: 1
+HookMaterial: 0
 FeatureEnabled: true
 HookSettings:
-  EmitSpeed: 640
+  EmitSpeed: 600

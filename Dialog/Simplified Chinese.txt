@@ -1,2 +1,16 @@
-yourname_mapname_testmap=测试地图
-yourname_mapname=测试
+Aqua_0_JourneyStart=新冒险之旅
+
+Aqua_0_JourneyStart_1_AnotherOne=启程
+
+THROW_HOOK=投掷钩爪
+SWING_JUMP=摆荡并飞越
+CLIMB_ROPE=攀爬钩绳
+DASH_GRAB_JUMP=冲刺钩跳
+INERTIA_SWING=MAKE USE OF INERTIA
+
+
+
+
+Aqua_0_JourneyStart_2_City=遗落之城
+Aqua_0_JourneyStart_2_City_b_00=工地上层
+Aqua_0_JourneyStart_2_City_c_00=市中心

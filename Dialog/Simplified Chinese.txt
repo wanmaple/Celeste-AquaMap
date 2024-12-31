@@ -1,16 +1,161 @@
 Aqua_0_JourneyStart=新冒险之旅
 
+
+
 Aqua_0_JourneyStart_1_AnotherOne=启程
 
 THROW_HOOK=投掷钩爪
-SWING_JUMP=摆荡并飞越
+SWING_JUMP=摆荡并飞跃
 CLIMB_ROPE=攀爬钩绳
 DASH_GRAB_JUMP=冲刺钩跳
 INERTIA_SWING=MAKE USE OF INERTIA
-
-
+#--序章剧情--
+AquaCutscene_AquaCH1_1=
+	PlayAudio event:/new_content/game/10_farewell/endscene_dial_theo player
+	WaitFor 2
+	Dialogue AquaCH1_Dialog1
+	
+AquaCutscene_AquaCH1_2=
+	Dialogue AquaCH1_Dialog5
 
 
 Aqua_0_JourneyStart_2_City=遗落之城
 Aqua_0_JourneyStart_2_City_b_00=工地上层
 Aqua_0_JourneyStart_2_City_c_00=市中心
+
+
+
+
+
+
+
+
+
+
+
+	AquaCH1_Dialog1=
+		[THEO left excited]
+		{+MADELINE}，你到了吗？
+
+		[MADELINE left normal]
+		是的，{+ theo}。{n}我已经到了。
+
+		[THEO left excited]
+		那还在{~}等{/~}什么呢，快过来！
+
+	AquaCH1_Dialog2=
+		[MADELINE right normal]
+		嗨，{+ theo}。
+
+		[THEO left excited]
+		{+MADELINE}，你来了！
+
+		[MADELINE right normal]
+		{+ theo}，这里就是你说的{~}绝佳探险地点{/~}吗？
+		
+		[THEO left excited]
+		当然！
+		再往前一些就是一个神秘的城市遗址。
+
+		[THEO left normal]
+		就和在那{+mountain}上的差不多。
+
+		[THEO left thinking]
+		也许我们会在那里遇见{~}新的疯狂事{/~}。
+
+		[MADELINE right upset]
+		{>> 0.7}拜托。{>>}
+
+		[THEO left excited]
+		对了，我把东西给你带来了。
+
+		[MADELINE right normal]
+		*Madeline获得抓钩
+		
+		[MADELINE right normal]
+		哇哦，{0.5}{n}谢谢你{+ theo}。
+		
+		[THEO left normal]
+		{~}不客气{/~}，{0.5}{n}你需不需要......
+
+		[THEO left worried]
+		哦等等。
+
+		[THEO left excited]
+		有人在这次探险的帖子下留言了。
+
+	AquaCH1_Dialog3=
+		[MADELINE right normal]
+		最近怎么样？
+		
+		[THEO left normal]
+		挺好的。
+
+		[THEO left thinking]
+		我妹妹读完法学院后，{n}我{~}一直{/~}想着计划一次这样一次新冒险。
+
+		[THEO left normal]
+		既然{+ CELESTE_MOUNTAIN}这么令你{~}着迷{/~}，{n}那么这个地方你一定也会感兴趣。
+		
+		[MADELINE right distracted]
+		嗯......
+
+		[MADELINE right sad]
+		也许我确实需要去哪里放松一下。
+
+		[MADELINE right upset]
+		我希望你已经提前为那些{~}未知的危险{/~}做好了准备。
+		
+		[THEO left thinking]
+		{~}我会的。{/~}
+
+		[THEO left yolo]
+		{big}{~}冒险家{+ theo}时刻准备记录惊险时刻~{/~}{/big}
+
+		[MADELINE right upset]
+		噢，{0.75}很好。
+
+	AquaCH1_Dialog4=
+		[THEO left excited]
+		{+GRANNY}怎么样？
+
+		[MADELINE right sad]
+		还是老样子。
+
+		[MADELINE right normal]
+		她不久前带我去深入了解{+ CELESTE_MOUNTAIN}。
+
+		[THEO left excited]
+		酷。
+		感觉怎么样？
+
+		[MADELINE right distracted]
+		...
+
+		[MADELINE right determined]
+		{~}{>> 0.85}空洞...{0.5}深广...{>>}
+		{>> 0.85}感觉又让人......{>>}{/~}
+
+		[THEO left wtf]
+		什么？
+
+		[MADELINE right distracted]
+		没事......
+
+		[THEO left normal]
+		好吧。
+		下次见到{+GRANNY}，代我向她问好。
+
+		[MADELINE right normal]
+		我会的。
+		
+	AquaCH1_Dialog5=
+		[THEO left excited]
+		准备出发了？
+		你先走前面，{n}我稍后跟上你。
+		
+		
+		
+		
+		
+		
